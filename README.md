@@ -35,8 +35,9 @@ Whereas those codes run computers, though, Ulex runs legal systems.
 In either case, users can download, use, and modify the rules free of charge.*
 
 Where Can I Learn More About Ulex?
-Video from BIL, in Los Angeles: https://youtu.be/I83ywM-zd4k
-Text of version 1.1:  https://goo.gl/YByFti
+Video from BIL, in Los Angeles: https://youtu.be/I83ywM-zd4k .
+Text of version 1.0:  https://goo.gl/bChSpI .
+Text of version 1.1:  https://goo.gl/YByFti .
 Tom W. Bell, "Your Next Government?":  https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925
 
 *Some institutions claim copyrights in some of the rule sets invoked by Ulex.
