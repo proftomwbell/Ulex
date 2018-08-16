@@ -32,6 +32,8 @@ Most of the substantive rules of Ulex come from select Restatements of the Commo
 
 Ulex also includes a few bespoke rules.
 
+> (Note that some institutions claim copyrights in some of the rule sets invoked by Ulex.)
+
 
 ## What Ties It All Together?
 Ulex's meta rules ensure that all the various parts work together without contradiction and to practical effect.
@@ -43,7 +45,6 @@ Ulex follows the lead of open source operating systems like Unix, GNU, and Linux
 Whereas those codes run computers, though, Ulex runs legal systems.
 
 In either case, users can download, use, and modify the rules free of charge.
-> Some institutions claim copyrights in some of the rule sets invoked by Ulex.
 
 
 ## Where Can I Learn More About Ulex?
