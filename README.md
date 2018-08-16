@@ -50,5 +50,5 @@ In either case, users can download, use, and modify the rules free of charge.
 * [Video from BIL, in Los Angeles](https://youtu.be/I83ywM-zd4k)
 * [Text of version 1.0](https://goo.gl/bChSpI)
 * [Text of version 1.1](https://goo.gl/YByFti)
-* Tom[ W. Bell, "Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
+* [Tom W. Bell, "Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
 
