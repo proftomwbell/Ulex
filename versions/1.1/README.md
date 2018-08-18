@@ -133,7 +133,6 @@ likewise for decisions rendered under Ulex and presented for enforcement in the 
 host jurisdiction. In this way, special jurisdictions running Ulex can integrate more fully
 with other legal systems.
 
-
 ## Notes for Users
 
 How can you run Ulex? Either move to a jurisdiction that has adopted the legal
@@ -154,69 +153,69 @@ https://proofofexistence.com/. A true copy will return a report along the lines 
 in the bitcoin blockchain since: 2017- 06 - 09... ." followed by the exact time of registration
 (which of course cannot be simultaneously recorded in this, the selfsame document).
 
-## Ulex 1.1 (2017)
+# Ulex 1.1 (2017)
 
-**1. Procedural Rules**
+## 1. Procedural Rules
 
-1.1. Procedural Principles : ALI & International Institute for the Unification of
+### 1.1. Procedural Principles : ALI & International Institute for the Unification of
 Law, Principles of Transnational Civil Procedure (2004).^6
 
-1.2. Default Procedural Rules
+### 1.2. Default Procedural Rules
 
-1.2.1. Judges: Each party chooses a judge and those two judges choose a
+#### 1.2.1. Judges: Each party chooses a judge and those two judges choose a
 third.^7
 
-1.2.2. Remedies: The judges choose one party's proposed remedy.^8
+#### 1.2.2. Remedies: The judges choose one party's proposed remedy.^8
 
-1.2.3. Costs: The losing party pays the winning party's legal costs.^9
+#### 1.2.3. Costs: The losing party pays the winning party's legal costs.^9
 
-**2. Substantive Rules**
+## 2. Substantive Rules
 
-2.1. Tort Law
+### 2.1. Tort Law
 
-2.1.1. Generally: ALI, Restatement of Torts, Second (1965-79).^10
+#### 2.1.1. Generally: ALI, Restatement of Torts, Second (1965-79).^10
 
-2.1.2. Defective Products: ALI, Restatement of Torts, Third, Product
+#### 2.1.2. Defective Products: ALI, Restatement of Torts, Third, Product
 Liability (1998).^11
 
-2.1.3. Shared Blame: ALI, R estatement of Torts, Third, Apportionment of
+#### 2.1.3. Shared Blame: ALI, R estatement of Torts, Third, Apportionment of
 Liability (2000).^12
 
-2.1.4. Personal Harm: ALI, Restatement of Torts, Third, Liability for
+#### 2.1.4. Personal Harm: ALI, Restatement of Torts, Third, Liability for
 Physical and Emotional Harm (2009-12).^13
 
-2.2. Property Law
+### 2.2. Property Law
 
-2.2.1. Generally: ALI, Restatement of Property (1936-40).^14
+#### 2.2.1. Generally: ALI, Restatement of Property (1936-40).^14
 
-2.2.2. Leases: ALI, Restatement of Property, Second, Landlord and Tenant
+#### 2.2.2. Leases: ALI, Restatement of Property, Second, Landlord and Tenant
 (1977).^15
 
-2.2.3. Mortgages: ALI, Restatement of Property, Third, Mortgages (1997).^16
+#### 2.2.3. Mortgages: ALI, Restatement of Property, Third, Mortgages (1997).^16
 
-2.2.4. Servitudes: ALI, Restatement of Property, Third, Servitudes (2000).^17
+#### 2.2.4. Servitudes: ALI, Restatement of Property, Third, Servitudes (2000).^17
 
-2.2.5. Gifts: ALI, Restatement of Property, Third, Wills and Other Donative
+#### 2.2.5. Gifts: ALI, Restatement of Property, Third, Wills and Other Donative
 Transfers (1999-2003).^18
 
-2.3. Contract Law: ALI, Restatement of Contracts, Second (1981).^19
+### 2.3. Contract Law: ALI, Restatement of Contracts, Second (1981).^19
 
-2.4. Additional Restatements of the Common Law
+### 2.4. Additional Restatements of the Common Law
 
-2.4.1. Conflict of Laws: ALI, Restatement of Conflict of Laws, Second
+#### 2.4.1. Conflict of Laws: ALI, Restatement of Conflict of Laws, Second
 (1971).^20
 
-2.4.2. Unfair Competition: ALI, Restatement of Unfair Competition, Third
+#### 2.4.2. Unfair Competition: ALI, Restatement of Unfair Competition, Third
 (1995).^21
 
-2.4.3. Suretyship and Guaranty: ALI, Restatement of Suretyship and
+#### 2.4.3. Suretyship and Guaranty: ALI, Restatement of Suretyship and
 Guaranty, Third (1996).^22
 
-2.4.4. Agency: ALI, Restatement of the Law of Agency, Third (2006).^23
+#### 2.4.4. Agency: ALI, Restatement of the Law of Agency, Third (2006).^23
 
-2.4.5. Trusts: ALI, Restatement of Trusts, Third (2003-12).^24
+#### 2.4.5. Trusts: ALI, Restatement of Trusts, Third (2003-12).^24
 
-2.4.6. Restitution and Unjust Enrichment: ALI, Restatement of
+#### 2.4.6. Restitution and Unjust Enrichment: ALI, Restatement of
 Restitution and Unjust Enrichment, Third (2011).^25
 
 2.4.7. Employment: ALI, Restatement of Employment Law, Third (2014).^26
@@ -387,7 +386,6 @@ Thompson Reuters, for purchase or lease of bound or e-books, at
 [http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-](http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-)
 Law/c/20194; or via online databases offered by Westlaw, [http://www.westlaw.com/,](http://www.westlaw.com/,) Lexis
 [http://www.lexis.com/,](http://www.lexis.com/,) or HeinOnline, home.heinonline.org/. (All sites visited April 30, 2016).
-
 
 (^5) 9 U.S.C. § 1-ff.
 
