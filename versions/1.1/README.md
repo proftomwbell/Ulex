@@ -39,7 +39,7 @@ To specify the rules is not to replicate them, however.
 Some of the rule sets used in Ulex remain subject to copyright claims. 
 Most such copyright claimants nonetheless make their materials publicly available. 
 Uniquely, however, the American Law Institute (ALI) both claims copyrights in the black-letter rules of
-the _Restatements_ and declines to make them publicly available.^4 
+the _Restatements_ and declines to make them publicly available.<sup>[4](#fn4)</sup> 
 Given that the Restatements constitute binding public law in the United States, 
 and that copyright cannot restrict public access to public laws, the ALI's claim looks suspect. 
 But resolution of that question must wait. 
@@ -126,8 +126,9 @@ itself, protecting Ulex against run-time errors.
 collection of rules, offered in a new section 5, regulates the process through which a host
 sovereign's courts review and reject or adopt the judgments of Ulex courts. In form and
 effect, the Integration Module reflects the core provisions of the long-lived and widely
-respected United States Federal Arbitration Act (FAA).^5 Subject to scrutiny for inherently
-unfair adjudications, the FFA gives private arbitrations force of law, allowing the prevailing
+respected United States Federal Arbitration Act (FAA).<sup>[5](#fn5)</sup>
+Subject to scrutiny for inherently unfair adjudications, 
+the FFA gives private arbitrations force of law, allowing the prevailing
 private party to invoke public powers to enforce the private judgment. Module 5 does
 likewise for decisions rendered under Ulex and presented for enforcement in the courts of a
 host jurisdiction. In this way, special jurisdictions running Ulex can integrate more fully
@@ -159,21 +160,21 @@ in the bitcoin blockchain since: 2017- 06 - 09... ." followed by the exact time 
 
 ### 1.1. Procedural Principles
 
-ALI & International Institute for the Unification of Law, Principles of Transnational Civil Procedure (2004).^6
+ALI & International Institute for the Unification of Law, Principles of Transnational Civil Procedure (2004).<sup>[6](#fn6)</sup>
 
 ### 1.2. Default Procedural Rules
 
 #### 1.2.1. Judges
 
-Each party chooses a judge and those two judges choose a third.^7
+Each party chooses a judge and those two judges choose a third.<sup>[7](#fn7)</sup>
 
 #### 1.2.2. Remedies
 
-The judges choose one party's proposed remedy.^8
+The judges choose one party's proposed remedy.<sup>[8](#fn8)</sup>
 
 #### 1.2.3. Costs
 
-The losing party pays the winning party's legal costs.^9
+The losing party pays the winning party's legal costs.<sup>[9](#fn9)</sup>
 
 ## 2. Substantive Rules
 
@@ -181,172 +182,241 @@ The losing party pays the winning party's legal costs.^9
 
 #### 2.1.1. Generally
 
-ALI, Restatement of Torts, Second (1965-79).^10
+ALI, Restatement of Torts, Second (1965-79).<sup>[10](#fn10)</sup>
 
 #### 2.1.2. Defective Products
 
-ALI, Restatement of Torts, Third, Product Liability (1998).^11
+ALI, Restatement of Torts, Third, Product Liability (1998).<sup>[11](#fn11)</sup>
 
 #### 2.1.3. Shared Blame
 
-ALI, R estatement of Torts, Third, Apportionment of Liability (2000).^12
+ALI, R estatement of Torts, Third, Apportionment of Liability (2000).<sup>[12](#fn12)</sup>
 
 #### 2.1.4. Personal Harm
 
-ALI, Restatement of Torts, Third, Liability for Physical and Emotional Harm (2009-12).^13
+ALI, Restatement of Torts, Third, Liability for Physical and Emotional Harm (2009-12).<sup>[13](#fn13)</sup>
 
 ### 2.2. Property Law
 
 #### 2.2.1. Generally
 
-ALI, Restatement of Property (1936-40).^14
+ALI, Restatement of Property (1936-40).<sup>[14](#fn14)</sup>
 
 #### 2.2.2. Leases
 
-ALI, Restatement of Property, Second, Landlord and Tenant (1977).^15
+ALI, Restatement of Property, Second, Landlord and Tenant (1977).<sup>[15](#fn15)</sup>
 
 #### 2.2.3. Mortgages
 
-ALI, Restatement of Property, Third, Mortgages (1997).^16
+ALI, Restatement of Property, Third, Mortgages (1997).<sup>[16](#fn16)</sup>
 
 #### 2.2.4. Servitudes
 
-ALI, Restatement of Property, Third, Servitudes (2000).^17
+ALI, Restatement of Property, Third, Servitudes (2000).<sup>[17](#fn17)</sup>
 
 #### 2.2.5. Gifts
 
-ALI, Restatement of Property, Third, Wills and Other Donative Transfers (1999-2003).^18
+ALI, Restatement of Property, Third, Wills and Other Donative Transfers (1999-2003).<sup>[18](#fn18)</sup>
 
 ### 2.3. Contract Law
 
-ALI, Restatement of Contracts, Second (1981).^19
+ALI, Restatement of Contracts, Second (1981).<sup>[19](#fn19)</sup>
 
 ### 2.4. Additional Restatements of the Common Law
 
 #### 2.4.1. Conflict of Laws
 
-ALI, Restatement of Conflict of Laws, Second (1971).^20
+ALI, Restatement of Conflict of Laws, Second (1971).<sup>[20](#fn20)</sup>
 
 #### 2.4.2. Unfair Competition
 
-ALI, Restatement of Unfair Competition, Third (1995).^21
+ALI, Restatement of Unfair Competition, Third (1995).<sup>[21](#fn21)</sup>
 
 #### 2.4.3. Suretyship and Guaranty
 
-ALI, Restatement of Suretyship and Guaranty, Third (1996).^22
+ALI, Restatement of Suretyship and Guaranty, Third (1996).<sup>[22](#fn22)</sup>
 
 #### 2.4.4. Agency
 
-ALI, Restatement of the Law of Agency, Third (2006).^23
+ALI, Restatement of the Law of Agency, Third (2006).<sup>[23](#fn23)</sup>
 
 #### 2.4.5. Trusts
 
-ALI, Restatement of Trusts, Third (2003-12).^24
+ALI, Restatement of Trusts, Third (2003-12).<sup>[24](#fn24)</sup>
 
 #### 2.4.6. Restitution and Unjust Enrichment
 
-ALI, Restatement of Restitution and Unjust Enrichment, Third (2011).^25
+ALI, Restatement of Restitution and Unjust Enrichment, Third (2011).<sup>[25](#fn25)</sup>
 
-2.4.7. Employment: ALI, Restatement of Employment Law, Third (2014).^26
+#### 2.4.7. Employment
 
-2.5. Uniform Commercial Codes
+ALI, Restatement of Employment Law, Third (2014).<sup>[26](#fn26)</sup>
 
-2.5.1. General Provisions: ALI & and Uniform Law Commission (ULC), Uniform Commercial Code (UCC), Article 1: General Provisions (2001).^27
+### 2.5. Uniform Commercial Codes
 
-2.5.2. Leases of Goods: ALI & ULC, UCC Article 2A: Leases (2002).^28
+#### 2.5.1. General Provisions
 
-2.5.3. Negotiable Instruments: ALI & ULC, UCC Article 3: Negotiable Instruments (2002).^29
+ALI & and Uniform Law Commission (ULC), Uniform Commercial Code (UCC), Article 1: General Provisions (2001).<sup>[27](#fn27)</sup>
 
-2.5.4. Banking: ALI & ULC, UCC Article 4: Bank Deposits and Collections (2002).^30
+#### 2.5.2. Leases of Goods
 
-2.5.5. Funds Transfers: ALI & ULC, UCC Article 4A: Funds Transfers (2012).^31
+ALI & ULC, UCC Article 2A: Leases (2002).<sup>[28](#fn28)</sup>
 
-2.5.6. Letters of Credit: ALI & ULC, UCC Article 5: Letters of Credit (1995).^32
+#### 2.5.3. Negotiable Instruments
 
-2.5.7. Documents of Title: ALI & ULC, UCC Article 7: Documents of Title (2003).^33
+ALI & ULC, UCC Article 3: Negotiable Instruments (2002).<sup>[29](#fn29)</sup>
 
-2.5.8. Investment Securities: ALI & ULC, UCC Article 8: Investment Securities (1994).^34
+#### 2.5.4. Banking
 
-2.5.9. Secured Transactions: ALI & ULC, UCC Article 9: Secured Transactions (2010).^35
+ALI & ULC, UCC Article 4: Bank Deposits and Collections (2002).<sup>[30](#fn30)</sup>
 
-2.6. Natural Persons
+#### 2.5.5. Funds Transfers
 
-2.6.1. Adoption: ULC, Uniform Adoption Act (1994).^36
+ALI & ULC, UCC Article 4A: Funds Transfers (2012).<sup>[31](#fn31)</sup>
 
-2.6.2. Wards and Protected Persons: ULC, Uniform Guardianship and Protective Proceedings Act (1997).^37
+#### 2.5.6. Letters of Credit
 
-2.6.3. Parentage: ULC, Uniform Parentage Act (2002).^38
+ALI & ULC, UCC Article 5: Letters of Credit (1995).<sup>[32](#fn32)</sup>
 
-2.6.4. Marriage: ULC, Uniform Premarital and Marital Agreements Act (2012).^39
+#### 2.5.7. Documents of Title
 
-2.6.5. Probate: ULC, Uniform Probate Code (2014).^40
+ALI & ULC, UCC Article 7: Documents of Title (2003).<sup>[33](#fn33)</sup>
 
-2.7. Legal Persons
+#### 2.5.8. Investment Securities
 
-2.7.1. Nonprofit Corporations: ABA, Model Nonprofit Corporation Act (2008).^41
+ALI & ULC, UCC Article 8: Investment Securities (1994).<sup>[34](#fn34)</sup>
 
-2.7.2. Corporations: ABA, Model Business Corporation Act (2013)^42
+#### 2.5.9. Secured Transactions
 
-2.7.3. Business Organizations: ULC, Uniform Business Organizations Code (UBOC), Article 1: The Hub (2013)^43
+ALI & ULC, UCC Article 9: Secured Transactions (2010).<sup>[35](#fn35)</sup>
 
-2.7.4. Conversions and Mergers: ULC, UBOC, Article 2: Model Entity Transaction Act (2013).^44
+### 2.6. Natural Persons
 
-2.7.5. Partnerships: ULC, UBOC, Article 3: Uniform Partnership Act (2013).^45
+#### 2.6.1. Adoption
 
-2.7.6. Limited Partnerships: ULC, UBOC, Article 4: Uniform Limited Partnership Act (2013)^46
+ULC, Uniform Adoption Act (1994).<sup>[36](#fn36)</sup>
 
-2.7.7. Limited Liability Companies: ULC, UBOC, Article 5: Uniform Limited Liability Company Act (2013).^47
+#### 2.6.2. Wards and Protected Persons
 
-2.7.8. Cooperative Associations: ULC, UBOC, Article 6: Uniform Limited Cooperative Association Act (2013).^48
+ULC, Uniform Guardianship and Protective Proceedings Act (1997).<sup>[37](#fn37)</sup>
 
-2.7.9. Unincorporated Nonprofits: ULC, UBOC , Article 7: Uniform Unincorporated Nonprofit Association Act (2011)^49
+#### 2.6.3. Parentage
 
-2.7.10. Business Trusts: ULC, UBOC , Article 8: Uniform Statutory Trust Entity Act (2013).^50
+ULC, Uniform Parentage Act (2002).<sup>[38](#fn38)</sup>
 
-2.8. Substantive Administrative Rules
+#### 2.6.4. Marriage
 
-2.8.1. Electronic Signatures: ULC, Uniform Electronic Transactions Act (1999).^51
+ULC, Uniform Premarital and Marital Agreements Act (2012).<sup>[39](#fn39)</sup>
 
-2.8.2. Electronic Recording: ULC, Uniform Real Property Electronic Recording Act (2005).^52
+#### 2.6.5. Probate
 
-2.8.3. Priority of Title to Real Property: 
+ULC, Uniform Probate Code (2014).<sup>[40](#fn40)</sup>
+
+### 2.7. Legal Persons
+
+#### 2.7.1. Nonprofit Corporations
+
+ABA, Model Nonprofit Corporation Act (2008).<sup>[41](#fn41)</sup>
+
+#### 2.7.2. Corporations
+
+ABA, Model Business Corporation Act (2013)<sup>[42](#fn42)</sup>
+
+#### 2.7.3. Business Organizations
+
+ULC, Uniform Business Organizations Code (UBOC), Article 1: The Hub (2013)<sup>[43](#fn43)</sup>
+
+#### 2.7.4. Conversions and Mergers
+
+ULC, UBOC, Article 2: Model Entity Transaction Act (2013).<sup>[44](#fn1)</sup>
+
+#### 2.7.5. Partnerships
+
+ULC, UBOC, Article 3: Uniform Partnership Act (2013).<sup>[45](#fn45)</sup>
+
+#### 2.7.6. Limited Partnerships
+
+ULC, UBOC, Article 4: Uniform Limited Partnership Act (2013)<sup>[46](#fn46)</sup>
+
+#### 2.7.7. Limited Liability Companies
+
+ULC, UBOC, Article 5: Uniform Limited Liability Company Act (2013).<sup>[47](#fn1)</sup>
+
+#### 2.7.8. Cooperative Associations
+
+ULC, UBOC, Article 6: Uniform Limited Cooperative Association Act (2013).<sup>[48](#fn48)</sup>
+
+#### 2.7.9. Unincorporated Nonprofits
+
+ULC, UBOC , Article 7: Uniform Unincorporated Nonprofit Association Act (2011)<sup>[49](#fn1)</sup>
+
+#### 2.7.10. Business Trusts
+
+ULC, UBOC , Article 8: Uniform Statutory Trust Entity Act (2013).<sup>[50](#fn50)</sup>
+
+### 2.8. Substantive Administrative Rules
+
+#### 2.8.1. Electronic Signatures
+
+ULC, Uniform Electronic Transactions Act (1999).<sup>[51](#fn51)</sup>
+
+#### 2.8.2. Electronic Recording
+
+ULC, Uniform Real Property Electronic Recording Act (2005).<sup>[52](#fn1)</sup>
+
+#### 2.8.3. Priority of Title to Real Property
+
 Any conveyance of an interest in real property that has not been recorded in the relevant land records office, if any, shall be void as against any subsequent transfer of a
-conflicting interest for value paid in good faith, recorded earlier.^53
+conflicting interest for value paid in good faith, recorded earlier.<sup>[53](#fn53)</sup>
 
-2.8.4. Adulthood: Adulthood, age of consent, majority, and capacity to contract begin 18 years after a person's birth.^54
+#### 2.8.4. Adulthood
 
-2.8.5. Time Limits: A cause of action subject to the statute of limitations or a claim against adverse possession or prescription expires seven years
+Adulthood, age of consent, majority, and capacity to contract begin 18 years after a person's birth.<sup>[54](#fn1)</sup>
+
+#### 2.8.5. Time Limits
+
+A cause of action subject to the statute of limitations or a claim against adverse possession or prescription expires seven years
 after its accrual.
 
-2.9. Substantive Catchall Rule: No controversy left unresolved by application of these rules may be decided contrary to common practice, the general tenor of these rules, or a decent respect for human dignity.
+### 2.9. Substantive Catchall Rule
 
-**3. Meta-Rules**
+No controversy left unresolved by application of these rules may be decided contrary to common practice, the general tenor of these rules, or a decent respect for human dignity.
 
-3.1. Alternative Rules: If a rule offers alternative provisions, the alternative offered first prevails over any later one.
+## 3. Meta-Rules
 
-3.2. Alternative Meanings: If a rule refers to an institution, office, power, or privilege that does not exist in a jurisdiction running Ulex, the rule instead
+### 3.1. Alternative Rules
+
+If a rule offers alternative provisions, the alternative offered first prevails over any later one.
+
+### 3.2. Alternative Meanings
+
+If a rule refers to an institution, office, power, or privilege that does not exist in a jurisdiction running Ulex, the rule instead
 refers to the closest functionally equivalent institution, office, power, or privilege that does or could exist in one.
 
-3.3. Conflicting Rules: If different rules give conflicting results, the rule listed later in this index prevails, but no rule can prevail over this one.
+### 3.3. Conflicting Rules
 
-**4. Optional Criminal Law Module**
+If different rules give conflicting results, the rule listed later in this index prevails, but no rule can prevail over this one.
 
-4.1. Criminal Procedural Rules:
+## 4. Optional Criminal Law Module
 
-4.1.1. ULC, Model Rules of Criminal Procedure (1987.)^55
+### 4.1. Criminal Procedural Rules
 
-4.1.2. ALI, Model Penal Code (2009) (procedural provisions).^56
+#### 4.1.1. ULC, Model Rules of Criminal Procedure (1987.)<sup>[55](#fn55)</sup>
 
-4.2 Criminal Substantive Rules: ALI, Model Penal Code (2009) (substantive provisions).^57
+#### 4.1.2. ALI, Model Penal Code (2009) (procedural provisions).<sup>[56](#fn56)</sup>
 
-**5. Optional Integration Module** (for adoption by host sovereign)
+### 4.2 Criminal Substantive Rules
 
-5.1. Sole Grounds for Revoking Agreement to Resolve Dispute Under Ulex. 
+ALI, Model Penal Code (2009) (substantive provisions).<sup>[57](#fn57)</sup>
+
+## 5. Optional Integration Module (for adoption by host sovereign)
+
+### 5.1. Sole Grounds for Revoking Agreement to Resolve Dispute Under Ulex. 
 
 A written agreement to resolve a dispute under Ulex shall be valid, irrevocable,
-and enforceable except upon such grounds as exist at the time of its forming in law or equity for revocation of a contract.^58
+and enforceable except upon such grounds as exist at the time of its forming in law or equity for revocation of a contract.<sup>[58](#fn58)</sup>
 
-5.2. Sole Grounds for Modifying or Correcting Judgment Rendered Under Ulex.
+### 5.2. Sole Grounds for Modifying or Correcting Judgment Rendered Under Ulex.
 
 A court may modify or correct a judgment rendered under Ulex only upon
 application by a party subject to it and upon proof that: 1) The judgment
@@ -356,9 +426,9 @@ their authority in a manner that substantively altered their decision upon
 matters properly addressed; or 3) The judgment bears an imperfection in form
 not affecting its substance. The court may then only modify or correct the
 judgment, and then only so far as necessary to effectuate the evident intent of
-the judgment and promote justice between the parties.^59
+the judgment and promote justice between the parties.<sup>[59](#fn59)</sup>
 
-5.3. Force and Effect of Court Confirmation. 
+### 5.3. Force and Effect of Court Confirmation. 
 
 A party moving for a court order
 confirming a judgment rendered under Ulex shall file proof that the parties
@@ -367,7 +437,7 @@ referenced rules, and that the judgement issued as described. Absent
 application of Rules 5.1 and 5.2, above, the court receiving the motion shall
 give it the same force and effect in all respects as any judgment issued by the
 court, and the judgment shall be so treated by all persons, institutions, officers,
-or agents presented with the same.^60
+or agents presented with the same.<sup>[60](#fn60)</sup>
 
 ## Footnotes
 
