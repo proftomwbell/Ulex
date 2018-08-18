@@ -1,11 +1,6 @@
 # Ulex
 
-## Open Source Legal Operating System
-
-## Version 1.1 (2017)
-
-
-# Ulex
+![ulex europaeus](ulex-europaeus.png)
 
 ## Open Source Legal Operating System
 
