@@ -21,10 +21,10 @@ from a business pursuing profit, to an individual seeking work, to a family seek
 happiness. To all these and more, Ulex offers a fair and efficient legal system. And like any
 open source program, Ulex is not doled out by the dime but instead free for anyone to
 download, use, and modify. They need only adopt and implement by mutual express consent
-the procedural, substantive, and meta-rules that follow this brief introduction.^1
+the procedural, substantive, and meta-rules that follow this brief introduction.<sup>[1](#fn1)</sup>
 Ulex does not so much create the law as curate it, combining specialized rule sets
 from trusted sources into a simple but comprehensive legal system. It covers _civil law_ in the
-sense of _private law_ — not in the sense of _Roman_ law and not in contrast to _common law_.^2 As
+sense of _private law_ — not in the sense of _Roman_ law and not in contrast to _common law_.<sup>[2](#fn2)</sup> As
 such, Ulex by default does not include criminal law, which concerns not purely private
 matters, but instead offenses against the public at large. Ulex 1.0 instead offers criminal law
 as an optional module.
@@ -32,16 +32,7 @@ With regard to all areas of law, Ulex offers both _procedural_ rules, which defi
 parties resolve their disputes, and _substantive_ rules, which describe their legal rights and
 remedies. A few _meta-rules_ protect the system against the functional equivalent of what
 computer programmers rue as "run-time" errors. Ulex merely sets default rules in most
-cases, leaving users free to run other legal systems "on top of" it.^3
-
-(^1) For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
-STATELESS NATIONS (Cambridge University Press, 2017).
-(^2) In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
-greatest part of Ulex's substantive rules.
-(^3) See AMERICAN LAW INSTITUTE, RESTATEMENT (SECOND) OF CONFLICT OF LAWS § 187 (1971),
-allowing parties to specify what law controls matters within the scope of their agreement, which Ulex
-incorporates by reference at rule 2.4.1.
-
+cases, leaving users free to run other legal systems "on top of" it.<sup>[3](#fn3)</sup>
 
 The default rules of Ulex 1.0 come from the _Restatements of the Common Law_ , the
 _Uniform Commercial Code_ , and other select sources. To specify the rules is not to replicate
@@ -502,3 +493,14 @@ or agents presented with the same.^60
 (^60) _Compare, id_. § 13.
 
 
+## Footnotes
+
+<a name="fn1"><sup>1</sup></a> For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
+STATELESS NATIONS (Cambridge University Press, 2017).
+
+<a name="fn2"><sup>2</sup></a> In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
+greatest part of Ulex's substantive rules.
+
+<a name="fn3"><sup>3</sup></a> See AMERICAN LAW INSTITUTE, RESTATEMENT (SECOND) OF CONFLICT OF LAWS § 187 (1971),
+allowing parties to specify what law controls matters within the scope of their agreement, which Ulex
+incorporates by reference at rule 2.4.1.
