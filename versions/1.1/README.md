@@ -310,7 +310,7 @@ ULC, Uniform Premarital and Marital Agreements Act (2012).<sup>[39](#fn39)</sup>
 
 #### 2.6.5. Probate
 
-ULC, Uniform Probate Code (2014).<sup>[40](#fn40)</sup>
+ULC, Uniform Probate Code (2010).<sup>[40](#fn40)</sup>
 
 ### 2.7. Legal Persons
 
