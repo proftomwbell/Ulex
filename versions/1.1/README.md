@@ -537,20 +537,18 @@ law.
 
 <a name="fn35"><sup>35</sup></a> Available at: https://www.law.cornell.edu/ucc/9 (visited May 1, 2016).
 
-<a name="fn36"><sup>36</sup></a> Available at [http://www.uniformlaws.org/Act.aspx?title=Adoption%20Act%20(1994)](http://www.uniformlaws.org/Act.aspx?title=Adoption%20Act%20(1994)) (visited May
-2, 2016).
+<a name="fn36"><sup>36</sup></a> Available at: [Adoption Act (1994)](http://www.uniformlaws.org/Act.aspx?title=Adoption%20Act%20(1994)) (visited May 2, 2016).
 
-<a name="fn37"><sup>37</sup></a> Available at
-[http://www.uniformlaws.org/Act.aspx?title=Guardianship%20and%20Protective%20Proceedings%](http://www.uniformlaws.org/Act.aspx?title=Guardianship%20and%20Protective%20Proceedings%)
-0Act%20(1997) (visited May 2, 2016).
+<a name="fn37"><sup>37</sup></a> Available at: [Guardianship and Protective Proceedings Act (1997)
+](http://www.uniformlaws.org/Act.aspx?title=Guardianship%20and%20Protective%20Proceedings%20Act%20(1997)) (visited May 2, 2016).
 
-<a name="fn38"><sup>38</sup></a> Available at: [http://www.uniformlaws.org/Act.aspx?title=Parentage%20Act](http://www.uniformlaws.org/Act.aspx?title=Parentage%20Act) (visited May 2, 2016).
+<a name="fn38"><sup>38</sup></a> Available at: [Parentage Act (2002)](http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002))
+ (visited May 2, 2016).
 
-<a name="fn39"><sup>39</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Premarital%20and%20Marital%20Agreements%20Act](http://www.uniformlaws.org/Act.aspx?title=Premarital%20and%20Marital%20Agreements%20Act)
-(visited May 2, 2106).
+<a name="fn39"><sup>39</sup></a> Available at: [Premarital and Marital Agreements Act
+](http://www.uniformlaws.org/Act.aspx?title=Premarital%20and%20Marital%20Agreements%20Act) (visited May 2, 2016).
 
-<a name="fn40"><sup>40</sup></a> Available at [http://www.uniformlaws.org/Act.aspx?title=Probate%20Code](http://www.uniformlaws.org/Act.aspx?title=Probate%20Code) (visited May 2, 2016).
+<a name="fn40"><sup>40</sup></a> Available at [Probate Code](http://www.uniformlaws.org/Act.aspx?title=Probate%20Code) (visited May 2, 2016).
 
 <a name="fn41"><sup>41</sup></a> Available at:
 [http://www.americanbar.org/content/dam/aba/events/real_property_trust_estate/joint_fall/2008/black_le](http://www.americanbar.org/content/dam/aba/events/real_property_trust_estate/joint_fall/2008/black_le)
@@ -558,43 +556,30 @@ tter.authcheckdam.pdf (visited May 1, 2016).
 
 <a name="fn42"><sup>42</sup></a> Available at: https://apps.americanbar.org/dch/committee.cfm?com=CL270000 (visited May 1, 2016).
 
-<a name="fn43"><sup>43</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Article%201%20of%20the%20Uniform%20Business%20O](http://www.uniformlaws.org/Act.aspx?title=Article%201%20of%20the%20Uniform%20Business%20O)
-rganizations%20Code%20(UBOC%20Hub)%20(2011)%20(Last%20Amended%202013) (visited May
+<a name="fn43"><sup>43</sup></a> Available at: [Article 1 of the Uniform Business Organizations Code (UBOC Hub) (2011) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Article%201%20of%20the%20Uniform%20Business%20Organizations%20Code%20(UBOC%20Hub)%20(2011)%20(Last%20Amended%202013)) (visited May
 1, 2016).
 
-<a name="fn44"><sup>44</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Entity%20Transactions%20Act,%20Model%20(2007)%20(](http://www.uniformlaws.org/Act.aspx?title=Entity%20Transactions%20Act,%20Model%20(2007)%20()
-Last%20Amended%202013) (visited May 2, 2016).
+<a name="fn44"><sup>44</sup></a> Available at: [Entity Transactions Act, Model (2007) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Entity%20Transactions%20Act,%20Model%20(2007)%20(Last%20Amended%202013)) (visited May 2, 2016).
 
-<a name="fn45"><sup>45</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Partnership%20Act%20(1997)%20(Last%20Amended%](http://www.uniformlaws.org/Act.aspx?title=Partnership%20Act%20(1997)%20(Last%20Amended%)
-013) (visited May 1, 2016).
+<a name="fn45"><sup>45</sup></a> Available at: [Partnership Act (1997) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Partnership%20Act%20(1997)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn46"><sup>46</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Limited%20Partnership%20Act%20(2001)%20(Last%20A](http://www.uniformlaws.org/Act.aspx?title=Limited%20Partnership%20Act%20(2001)%20(Last%20A)
-mended%202013) (visited May 1, 2016).
+<a name="fn46"><sup>46</sup></a> Available at: [Limited Partnership Act (2001) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Partnership%20Act%20(2001)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn47"><sup>47</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Limited%20Liability%20Company%20(2006)%20(Last%](http://www.uniformlaws.org/Act.aspx?title=Limited%20Liability%20Company%20(2006)%20(Last%)
-0Amended%202013) (visited May 1, 2016).
+<a name="fn47"><sup>47</sup></a> Available at: [Limited Liability Company (2006) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Liability%20Company%20(2006)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn48"><sup>48</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Limited%20Cooperative%20Association%20Act%20(2007)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Cooperative%20Association%20Act%20(2007))
-%20(Last%20Amended%202013) (visited May 1, 2016).
+<a name="fn48"><sup>48</sup></a> Available at: [Limited Cooperative Association Act (2007) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Cooperative%20Association%20Act%20(2007)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn49"><sup>49</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Unincorporated%20Nonprofit%20Association%20Act%20(](http://www.uniformlaws.org/Act.aspx?title=Unincorporated%20Nonprofit%20Association%20Act%20()
-2008)%20(Last%20Amended%202011) (visited May 1, 2016).
+<a name="fn49"><sup>49</sup></a> Available at: 
+[Unincorporated Nonprofit Association Act (2008) (Last Amended 2011)](http://www.uniformlaws.org/Act.aspx?title=Unincorporated%20Nonprofit%20Association%20Act%20(2008)%20(Last%20Amended%202011)) (visited May 1, 2016).
 
-<a name="fn50"><sup>50</sup></a> Available at: [http://www.uniformlaws.org/Act.aspx?title=Statutory%20Trust%20Entity%20Act](http://www.uniformlaws.org/Act.aspx?title=Statutory%20Trust%20Entity%20Act)
+<a name="fn50"><sup>50</sup></a> Available at: [Statutory Trust Entity Act](http://www.uniformlaws.org/Act.aspx?title=Statutory%20Trust%20Entity%20Act)
 (visited May 1, 2016).
 
-<a name="fn51"><sup>51</sup></a> Available at: [http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act](http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act)
+<a name="fn51"><sup>51</sup></a> Available at: [Electronic Transactions Act](http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act)
 (visited May 12, 2016).
 
 <a name="fn52"><sup>52</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Real%20Property%20Electronic%20Recording%20Act](http://www.uniformlaws.org/Act.aspx?title=Real%20Property%20Electronic%20Recording%20Act)
+[Real Property Electronic Recording Act](http://www.uniformlaws.org/Act.aspx?title=Real%20Property%20Electronic%20Recording%20Act)
 (visited May 12, 2016).
 
 <a name="fn53"><sup>53</sup></a> Here, Ulex adopts the race-notice form of recording statute most common in the United States.
@@ -610,13 +595,13 @@ Ulex sets the default at a relatively common age — 18 years old — leaving pr
 suit for emancipation, as in ULC, _Uniform Guardianship and Protective Proceedings Act_ § 210
 (1997), or leaving adopting communities free to set a different default age for adulthood.
 
-<a name="fn55"><sup>55</sup></a> Available at:
-[http://www.uniformlaws.org/Act.aspx?title=Rules%20of%20Criminal%20Procedure,%20Model](http://www.uniformlaws.org/Act.aspx?title=Rules%20of%20Criminal%20Procedure,%20Model)
+<a name="fn55"><sup>55</sup></a> Available at: 
+[Rules of Criminal Procedure, Model](http://www.uniformlaws.org/Act.aspx?title=Rules%20of%20Criminal%20Procedure,%20Model)
 (visited May 1, 2016).
 
-<a name="fn56"><sup>56</sup></a> Available at https://www.ali.org/publications/show/model-penal-code/ (visited May 1, 2016).
+<a name="fn56"><sup>56</sup></a> Available at [Model Penal Code](https://www.ali.org/publications/show/model-penal-code/) (visited May 1, 2016).
 
-<a name="fn57"><sup>57</sup></a> Available at https://www.ali.org/publications/show/model-penal-code/ (visited May 1, 2016).
+<a name="fn57"><sup>57</sup></a> Available at [Model Penal Code](https://www.ali.org/publications/show/model-penal-code/) (visited May 1, 2016).
 
 <a name="fn58"><sup>58</sup></a> _Compare_ , Federal Arbitration Act (FAA), 9 U.S.C. § 2.
 
