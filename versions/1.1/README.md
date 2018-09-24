@@ -288,7 +288,7 @@ or agents presented with the same.<sup>[60](#fn60)</sup>
 ## Footnotes
 
 <a name="fn1"><sup>1</sup></a> For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
-STATELESS NATIONS (Cambridge University Press, 2017).
+STATELESS NATIONS ch. 3.7 (Cambridge University Press, 2018).
 
 <a name="fn2"><sup>2</sup></a> In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
 greatest part of Ulex's substantive rules.
@@ -300,8 +300,7 @@ incorporates by reference at rule 2.4.1.
 <a name="fn4"><sup>4</sup></a> Access to the _Restatements_ can be purchased in a variety of ways and formats: from ALI, for bound
 versions of its publications, at https://www.ali.org/publications/#publication-type-restatements; from
 Thompson Reuters, for purchase or lease of bound or e-books, at
-[http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-](http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-)
-Law/c/20194; or via online databases offered by Westlaw, [http://www.westlaw.com/,](http://www.westlaw.com/,) Lexis
+[http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-Law/c/20194](http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-Law/c/20194); or via online databases offered by Westlaw, [http://www.westlaw.com/,](http://www.westlaw.com/,) Lexis
 [http://www.lexis.com/,](http://www.lexis.com/,) or HeinOnline, home.heinonline.org/. (All sites visited April 30, 2016).
 
 <a name="fn5"><sup>5</sup></a> 9 U.S.C. § 1-ff.
