@@ -287,145 +287,107 @@ or agents presented with the same.<sup>[60](#fn60)</sup>
 
 ## Footnotes
 
-<a name="fn1"><sup>1</sup></a> For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
-STATELESS NATIONS ch. 3.7 (Cambridge University Press, 2018).
-
-<a name="fn2"><sup>2</sup></a> In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
-greatest part of Ulex's substantive rules.
-
-<a name="fn3"><sup>3</sup></a> See AMERICAN LAW INSTITUTE, RESTATEMENT (SECOND) OF CONFLICT OF LAWS § 187 (1971),
-allowing parties to specify what law controls matters within the scope of their agreement, which Ulex
-incorporates by reference at rule 2.4.1.
-
-<a name="fn4"><sup>4</sup></a> Access to the _Restatements_ can be purchased in a variety of ways and formats: from ALI, for bound
-versions of its publications, at https://www.ali.org/publications/#publication-type-restatements; from
-Thompson Reuters, for purchase or lease of bound or e-books, at
-[http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-Law/c/20194](http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-Law/c/20194); or via online databases offered by Westlaw, [http://www.westlaw.com/,](http://www.westlaw.com/,) Lexis
-[http://www.lexis.com/,](http://www.lexis.com/,) or HeinOnline, home.heinonline.org/. (All sites visited April 30, 2016).
-
-<a name="fn5"><sup>5</sup></a> 9 U.S.C. § 1-ff.
-
 <a name="fn6"><sup>6</sup></a> _Id._
 
-<a name="fn7"><sup>7</sup></a> _See,_ United Nations Commission on International Trade Law, _UNCITRAL Model Law on
-International Commercial Arbitration_ Art. 10(2) (2006)
-[http://www.uncitral.org/pdf/english/texts/arbitration/ml-arb/07-86998_Ebook.pdf](http://www.uncitral.org/pdf/english/texts/arbitration/ml-arb/07-86998_Ebook.pdf) (setting default
-number of arbitrators at 3); _id._ Art. 11(3)(a) (describing method by which panel of three arbitrators
-chosen). _See also_ , American Arbitration Association, _Commercial Arbitration Rules and Mediation
-Procedures_ R-12(b) & R-13 (2013) (setting forth similar procedure).
+<a name="fn7"><sup>7</sup></a> _See,_ United Nations Commission on International Trade Law, 
+[_UNCITRAL Model Law on International Commercial Arbitration_ Art. 10(2) (2006)](https://web.archive.org/web/20160428/http://www.uncitral.org/pdf/english/texts/arbitration/ml-arb/07-86998_Ebook.pdf) 
+(setting default number of arbitrators at 3); _id._ Art. 11(3)(a) (describing method by which panel of three arbitrators chosen). 
+_See also_ , American Arbitration Association, _Commercial Arbitration Rules and Mediation Procedures_ R-12(b) & R-13 (2013) (setting forth similar procedure).
 
-<a name="fn8"><sup>8</sup></a> _See, e.g._ , Major League Baseball, _2012 - 2016 Basic Agreement_ Art. VI, § E(13), p.22 (2016)
-[http://mlb.mlb.com/pa/pdf/cba_english.pdf](http://mlb.mlb.com/pa/pdf/cba_english.pdf) (visited April 28, 2016) ("The arbitration panel shall be
-limited to awarding only one or the other of the two [remedies] submitted.").
+<a name="fn8"><sup>8</sup></a> _See, e.g._ , Major League Baseball, [_2012 - 2016 Basic Agreement_ Art. VI, § E(13), p.22 (2016)](https://web.archive.org/web/20160428/http://mlb.mlb.com/pa/pdf/cba_english.pdf) (visited April 28, 2016) 
+("The arbitration panel shall be limited to awarding only one or the other of the two [remedies] submitted.").
 
-<a name="fn9"><sup>9</sup></a> _See_ , American Law Institute & International Institute for the Unification of Law, _Principles of
-Transnational Civil Procedure Principle_ 25 (2004)
-[http://www.unidroit.org/english/principles/civilprocedure/ali-unidroitprinciples-e.pdf](http://www.unidroit.org/english/principles/civilprocedure/ali-unidroitprinciples-e.pdf) (codifying the
-rule).
+<a name="fn9"><sup>9</sup></a> _See_ , American Law Institute & International Institute for the Unification of Law, 
+[_Principles of Transnational Civil Procedure Principle_ 25 (2004)](https://web.archive.org/web/20160430/http://www.unidroit.org/english/principles/civilprocedure/ali-unidroitprinciples-e.pdf) (codifying the rule).
 
-<a name="fn10"><sup>10</sup></a> Available at: https://www.ali.org/publications/show/torts/ (visited April 30, 2016).
+<a name="fn10"><sup>10</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts/ (visited April 30, 2016).
 
-<a name="fn11"><sup>11</sup></a> Available at: https://www.ali.org/publications/show/torts-third/ (visited April 30, 2016).
+<a name="fn11"><sup>11</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts-third/ (visited April 30, 2016).
 
-<a name="fn12"><sup>12</sup></a> Available at: https://www.ali.org/publications/show/torts-apportionment-liability/ (visited April 30,
-2016).
+<a name="fn12"><sup>12</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts-apportionment-liability/ (visited April 30, 2016).
 
-<a name="fn13"><sup>13</sup></a> Available at: https://www.ali.org/publications/show/torts-liability-physical-and-emotional-harm/
-(visited April 30, 2016).
+<a name="fn13"><sup>13</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts-liability-physical-and-emotional-harm/ (visited April 30, 2016).
 
 <a name="fn14"><sup>14</sup></a> Though the ALI no longer offers bound versions of this _Restatement_ for sale, it remains available
 via the online sources listed in footnote 3, above. It provides a few crucial rules, though much of its
 coverage has been superseded by later-published _Restatements_ covering specific areas of property
 law.
 
-<a name="fn15"><sup>15</sup></a> Available at: https://www.ali.org/publications/show/property-landlord-and-tenant/ (visited April
-30, 2016).
+<a name="fn15"><sup>15</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/property-landlord-and-tenant/ (visited April 30, 2016).
 
-<a name="fn16"><sup>16</sup></a> Available at: https://www.ali.org/publications/show/property-mortgages/ (visited April 30, 2016).
+<a name="fn16"><sup>16</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/property-mortgages/ (visited April 30, 2016).
 
-<a name="fn17"><sup>17</sup></a> Available at: https://www.ali.org/publications/show/property-servitudes/ (visited April 30, 2016).
+<a name="fn17"><sup>17</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/property-servitudes/ (visited April 30, 2016).
 
-<a name="fn18"><sup>18</sup></a> Available at: https://www.ali.org/publications/show/property-wills-and-other-donative-transfers/
-(visited April 30, 2016).
+<a name="fn18"><sup>18</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/property-wills-and-other-donative-transfers/ (visited April 30, 2016).
 
-<a name="fn19"><sup>19</sup></a> Available at: https://www.ali.org/publications/show/contracts/ (visited April 30, 2016).
+<a name="fn19"><sup>19</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/contracts/ (visited April 30, 2016).
 
-<a name="fn20"><sup>20</sup></a> Available at: https://www.ali.org/publications/show/conflict-laws/ (visited April 30, 2016).
+<a name="fn20"><sup>20</sup></a> Available at: https://web.archive.org/web/20160430/https://www.ali.org/publications/show/conflict-laws/ (visited April 30, 2016).
 
-<a name="fn21"><sup>21</sup></a> Available at: https://www.ali.org/publications/show/unfair-competition/ (visited May 1, 2016).
+<a name="fn21"><sup>21</sup></a> Available at: https://web.archive.org/web/20160501/https://www.ali.org/publications/show/unfair-competition/ (visited May 1, 2016).
 
-<a name="fn22"><sup>22</sup></a> Available at: https://www.ali.org/publications/show/suretyship-and-guaranty/ (visited May 1, 2016).
+<a name="fn22"><sup>22</sup></a> Available at: https://web.archive.org/web/20160501/https://www.ali.org/publications/show/suretyship-and-guaranty/ (visited May 1, 2016).
 
-<a name="fn23"><sup>23</sup></a> Available at: https://www.ali.org/publications/show/agency/ (visited May 1, 2016).
+<a name="fn23"><sup>23</sup></a> Available at: https://web.archive.org/web/20160501/https://www.ali.org/publications/show/agency/ (visited May 1, 2016).
 
-<a name="fn24"><sup>24</sup></a> Available at: https://www.ali.org/publications/show/trusts/ (visited May 1, 2016).
+<a name="fn24"><sup>24</sup></a> Available at: https://web.archive.org/web/20160501/https://www.ali.org/publications/show/trusts/ (visited May 1, 2016).
 
-<a name="fn25"><sup>25</sup></a> Available at: https://www.ali.org/publications/show/restatement-law/ (visited May 1, 2016).
+<a name="fn25"><sup>25</sup></a> Available at: https://web.archive.org/web/20160501/https://www.ali.org/publications/show/restatement-law/ (visited May 1, 2016).
 
-<a name="fn26"><sup>26</sup></a> Available at: https://www.ali.org/publications/show/employment-law/ (visited May 1, 2016).
+<a name="fn26"><sup>26</sup></a> Available at: https://web.archive.org/web/20160501/https://www.ali.org/publications/show/employment-law/ (visited May 1, 2016).
 
-<a name="fn27"><sup>27</sup></a> Available at: https://www.law.cornell.edu/ucc/1 (visited April 30, 2016).
+<a name="fn27"><sup>27</sup></a> Available at: https://web.archive.org/web/20160430/https://www.law.cornell.edu/ucc/1 (visited April 30, 2016).
 
-<a name="fn28"><sup>28</sup></a> Available at: https://www.law.cornell.edu/ucc/2A (visited May 1, 2016).
+<a name="fn28"><sup>28</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/2A (visited May 1, 2016).
 
-<a name="fn29"><sup>29</sup></a> Available at: https://www.law.cornell.edu/ucc/3 (visited May 1, 2016).
+<a name="fn29"><sup>29</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/3 (visited May 1, 2016).
 
-<a name="fn30"><sup>30</sup></a> Available at: https://www.law.cornell.edu/ucc/4 (visited May 1, 2016).
+<a name="fn30"><sup>30</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/4 (visited May 1, 2016).
 
-<a name="fn31"><sup>31</sup></a> Available at: https://www.law.cornell.edu/ucc/4A (visited May 1, 2016).
+<a name="fn31"><sup>31</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/4A (visited May 1, 2016).
 
-<a name="fn32"><sup>32</sup></a> Available at: https://www.law.cornell.edu/ucc/5 (visited May 1, 2016).
+<a name="fn32"><sup>32</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/5 (visited May 1, 2016).
 
-<a name="fn33"><sup>33</sup></a> Available at: https://www.law.cornell.edu/ucc/7 (visited May 1, 2016).
+<a name="fn33"><sup>33</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/7 (visited May 1, 2016).
 
-<a name="fn34"><sup>34</sup></a> Available at: https://www.law.cornell.edu/ucc/8 (visited May 1, 2016).
+<a name="fn34"><sup>34</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/8 (visited May 1, 2016).
 
-<a name="fn35"><sup>35</sup></a> Available at: https://www.law.cornell.edu/ucc/9 (visited May 1, 2016).
+<a name="fn35"><sup>35</sup></a> Available at: https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/9 (visited May 1, 2016).
 
-<a name="fn36"><sup>36</sup></a> Available at: [Adoption Act (1994)](http://www.uniformlaws.org/Act.aspx?title=Adoption%20Act%20(1994)) (visited May 2, 2016).
+<a name="fn36"><sup>36</sup></a> Available at: [Adoption Act (1994)](https://web.archive.org/web/20160502/http://www.uniformlaws.org/Act.aspx?title=Adoption%20Act%20(1994)) (visited May 2, 2016).
 
-<a name="fn37"><sup>37</sup></a> Available at: [Guardianship and Protective Proceedings Act (1997)
-](http://www.uniformlaws.org/Act.aspx?title=Guardianship%20and%20Protective%20Proceedings%20Act%20(1997)) (visited May 2, 2016).
+<a name="fn37"><sup>37</sup></a> Available at: [Guardianship and Protective Proceedings Act (1997)](https://web.archive.org/web/20160502/http://www.uniformlaws.org/Act.aspx?title=Guardianship%20and%20Protective%20Proceedings%20Act%20(1997)) (visited May 2, 2016).
 
-<a name="fn38"><sup>38</sup></a> Available at: [Parentage Act (2002)](http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002))
- (visited May 2, 2016).
+<a name="fn38"><sup>38</sup></a> Available at: [Parentage Act (2002)](http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)) (visited May 2, 2016).
 
-<a name="fn39"><sup>39</sup></a> Available at: [Premarital and Marital Agreements Act
-](http://www.uniformlaws.org/Act.aspx?title=Premarital%20and%20Marital%20Agreements%20Act) (visited May 2, 2016).
+<a name="fn39"><sup>39</sup></a> Available at: [Premarital and Marital Agreements Act](https://web.archive.org/web/20160502/http://www.uniformlaws.org/Act.aspx?title=Premarital%20and%20Marital%20Agreements%20Act) (visited May 2, 2016).
 
-<a name="fn40"><sup>40</sup></a> Available at [Probate Code](http://www.uniformlaws.org/Act.aspx?title=Probate%20Code) (visited May 2, 2016).
+<a name="fn40"><sup>40</sup></a> Available at: [Probate Code](https://web.archive.org/web/20160502/http://www.uniformlaws.org/Act.aspx?title=Probate%20Code) (visited May 2, 2016).
 
-<a name="fn41"><sup>41</sup></a> Available at:
-[http://www.americanbar.org/content/dam/aba/events/real_property_trust_estate/joint_fall/2008/black_le](http://www.americanbar.org/content/dam/aba/events/real_property_trust_estate/joint_fall/2008/black_le)
-tter.authcheckdam.pdf (visited May 1, 2016).
+<a name="fn41"><sup>41</sup></a> Available at: [Model Nonprofit Corporation Act Third Edition](https://web.archive.org/web/20160501/http://www.americanbar.org/content/dam/aba/events/real_property_trust_estate/joint_fall/2008/black_letter.authcheckdam.pdf) (visited May 1, 2016).
 
-<a name="fn42"><sup>42</sup></a> Available at: https://apps.americanbar.org/dch/committee.cfm?com=CL270000 (visited May 1, 2016).
+<a name="fn42"><sup>42</sup></a> Available at: https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000 (visited May 1, 2016).
 
-<a name="fn43"><sup>43</sup></a> Available at: [Article 1 of the Uniform Business Organizations Code (UBOC Hub) (2011) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Article%201%20of%20the%20Uniform%20Business%20Organizations%20Code%20(UBOC%20Hub)%20(2011)%20(Last%20Amended%202013)) (visited May
-1, 2016).
+<a name="fn43"><sup>43</sup></a> Available at: [Article 1 of the Uniform Business Organizations Code (UBOC Hub) (2011) (Last Amended 2013)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Article%201%20of%20the%20Uniform%20Business%20Organizations%20Code%20(UBOC%20Hub)%20(2011)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn44"><sup>44</sup></a> Available at: [Entity Transactions Act, Model (2007) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Entity%20Transactions%20Act,%20Model%20(2007)%20(Last%20Amended%202013)) (visited May 2, 2016).
+<a name="fn44"><sup>44</sup></a> Available at: [Entity Transactions Act, Model (2007) (Last Amended 2013)](https://web.archive.org/web/20160502/http://www.uniformlaws.org/Act.aspx?title=Entity%20Transactions%20Act,%20Model%20(2007)%20(Last%20Amended%202013)) (visited May 2, 2016).
 
-<a name="fn45"><sup>45</sup></a> Available at: [Partnership Act (1997) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Partnership%20Act%20(1997)%20(Last%20Amended%202013)) (visited May 1, 2016).
+<a name="fn45"><sup>45</sup></a> Available at: [Partnership Act (1997) (Last Amended 2013)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Partnership%20Act%20(1997)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn46"><sup>46</sup></a> Available at: [Limited Partnership Act (2001) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Partnership%20Act%20(2001)%20(Last%20Amended%202013)) (visited May 1, 2016).
+<a name="fn46"><sup>46</sup></a> Available at: [Limited Partnership Act (2001) (Last Amended 2013)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Limited%20Partnership%20Act%20(2001)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn47"><sup>47</sup></a> Available at: [Limited Liability Company (2006) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Liability%20Company%20(2006)%20(Last%20Amended%202013)) (visited May 1, 2016).
+<a name="fn47"><sup>47</sup></a> Available at: [Limited Liability Company (2006) (Last Amended 2013)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Limited%20Liability%20Company%20(2006)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn48"><sup>48</sup></a> Available at: [Limited Cooperative Association Act (2007) (Last Amended 2013)](http://www.uniformlaws.org/Act.aspx?title=Limited%20Cooperative%20Association%20Act%20(2007)%20(Last%20Amended%202013)) (visited May 1, 2016).
+<a name="fn48"><sup>48</sup></a> Available at: [Limited Cooperative Association Act (2007) (Last Amended 2013)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Limited%20Cooperative%20Association%20Act%20(2007)%20(Last%20Amended%202013)) (visited May 1, 2016).
 
-<a name="fn49"><sup>49</sup></a> Available at: 
-[Unincorporated Nonprofit Association Act (2008) (Last Amended 2011)](http://www.uniformlaws.org/Act.aspx?title=Unincorporated%20Nonprofit%20Association%20Act%20(2008)%20(Last%20Amended%202011)) (visited May 1, 2016).
+<a name="fn49"><sup>49</sup></a> Available at: [Unincorporated Nonprofit Association Act (2008) (Last Amended 2011)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Unincorporated%20Nonprofit%20Association%20Act%20(2008)%20(Last%20Amended%202011)) (visited May 1, 2016).
 
-<a name="fn50"><sup>50</sup></a> Available at: [Statutory Trust Entity Act](http://www.uniformlaws.org/Act.aspx?title=Statutory%20Trust%20Entity%20Act)
-(visited May 1, 2016).
+<a name="fn50"><sup>50</sup></a> Available at: [Statutory Trust Entity Act](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Statutory%20Trust%20Entity%20Act) (visited May 1, 2016).
 
-<a name="fn51"><sup>51</sup></a> Available at: [Electronic Transactions Act](http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act)
-(visited May 12, 2016).
+<a name="fn51"><sup>51</sup></a> Available at: [Electronic Transactions Act](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Electronic%20Transactions%20Act) (visited May 12, 2016).
 
-<a name="fn52"><sup>52</sup></a> Available at:
-[Real Property Electronic Recording Act](http://www.uniformlaws.org/Act.aspx?title=Real%20Property%20Electronic%20Recording%20Act)
-(visited May 12, 2016).
+<a name="fn52"><sup>52</sup></a> Available at: [Real Property Electronic Recording Act](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Real%20Property%20Electronic%20Recording%20Act) (visited May 12, 2016).
 
 <a name="fn53"><sup>53</sup></a> Here, Ulex adopts the race-notice form of recording statute most common in the United States.
 _See_ , Ray E. Sweat, _Race, Race-Notice and Notice Statutes: The American Recording System,_ 3
@@ -440,13 +402,11 @@ Ulex sets the default at a relatively common age — 18 years old — leaving pr
 suit for emancipation, as in ULC, _Uniform Guardianship and Protective Proceedings Act_ § 210
 (1997), or leaving adopting communities free to set a different default age for adulthood.
 
-<a name="fn55"><sup>55</sup></a> Available at: 
-[Rules of Criminal Procedure, Model](http://www.uniformlaws.org/Act.aspx?title=Rules%20of%20Criminal%20Procedure,%20Model)
-(visited May 1, 2016).
+<a name="fn55"><sup>55</sup></a> Available at: [Rules of Criminal Procedure, Model](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Rules%20of%20Criminal%20Procedure,%20Model) (visited May 1, 2016).
 
-<a name="fn56"><sup>56</sup></a> Available at [Model Penal Code](https://www.ali.org/publications/show/model-penal-code/) (visited May 1, 2016).
+<a name="fn56"><sup>56</sup></a> Available at: [Model Penal Code](https://web.archive.org/web/20160501/https://www.ali.org/publications/show/model-penal-code/) (visited May 1, 2016).
 
-<a name="fn57"><sup>57</sup></a> Available at [Model Penal Code](https://www.ali.org/publications/show/model-penal-code/) (visited May 1, 2016).
+<a name="fn57"><sup>57</sup></a> Available at: [Model Penal Code](https://web.archive.org/web/20160501/https://www.ali.org/publications/show/model-penal-code/) (visited May 1, 2016).
 
 <a name="fn58"><sup>58</sup></a> _Compare_ , Federal Arbitration Act (FAA), 9 U.S.C. § 2.
 

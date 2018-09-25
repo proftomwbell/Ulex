@@ -128,4 +128,25 @@ It would at all events prove taxing to duplicate every rule of Ulex 1.0 in this 
 which instead incorporates most of its constituent rules by reference, leaving users to access
 specific provisions as the occasion requires and as they see fit.
 
+## Footnotes
 
+<a name="fn1"><sup>1</sup></a> For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
+STATELESS NATIONS (Cambridge University Press, 2017).
+
+<a name="fn2"><sup>2</sup></a> In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
+greatest part of Ulex's substantive rules.
+
+<a name="fn3"><sup>3</sup></a> See AMERICAN LAW INSTITUTE, RESTATEMENT (SECOND) OF CONFLICT OF LAWS § 187 (1971),
+allowing parties to specify what law controls matters within the scope of their agreement, which Ulex
+incorporates by reference at rule 2.4.1.
+
+<a name="fn4"><sup>4</sup></a> Access to the _Restatements_ can be purchased in a variety of ways and formats: 
+from [ALI](https://web.archive.org/web/20160430/https://www.ali.org/publications/#publication-type-restatements), 
+for bound versions of its publications; from Thompson Reuters, for purchase or lease of bound or e-books, at 
+[Restatements of the Law](https://web.archive.org/web/20160430/http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-Law/c/20194); 
+or via online databases offered by 
+[Westlaw](https://web.archive.org/web/20160430/http://www.westlaw.com/), 
+[Lexis](https://web.archive.org/web/20160430/http://www.lexis.com/), or 
+[HeinOnline](https://web.archive.org/web/20160430/http://home.heinonline.org/). (All sites visited April 30, 2016).
+
+<a name="fn5"><sup>5</sup></a> 9 U.S.C. § 1-ff.
