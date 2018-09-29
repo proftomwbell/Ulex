@@ -36,7 +36,7 @@ ALI, Restatement of Torts, Third, Product Liability (1998).<sup>[11](#fn11)</sup
 
 #### 2.1.3. Shared Blame
 
-ALI, R estatement of Torts, Third, Apportionment of Liability (2000).<sup>[12](#fn12)</sup>
+ALI, Restatement of Torts, Third, Apportionment of Liability (2000).<sup>[12](#fn12)</sup>
 
 #### 2.1.4. Personal Harm
 
