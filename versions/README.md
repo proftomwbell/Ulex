@@ -79,13 +79,15 @@ itself, protecting Ulex against run-time errors.
 collection of rules, offered in a new section 5, regulates the process through which a host
 sovereign's courts review and reject or adopt the judgments of Ulex courts. In form and
 effect, the Integration Module reflects the core provisions of the long-lived and widely
-respected United States Federal Arbitration Act (FAA).<sup>[5](#fn5)</sup>
+respected United States Federal Arbitration Act (FAA).<sup>[1](#fn1.1.1)</sup>
 Subject to scrutiny for inherently unfair adjudications, 
 the FFA gives private arbitrations force of law, allowing the prevailing
 private party to invoke public powers to enforce the private judgment. Module 5 does
 likewise for decisions rendered under Ulex and presented for enforcement in the courts of a
 host jurisdiction. In this way, special jurisdictions running Ulex can integrate more fully
 with other legal systems.
+
+<a name="fn1.1.1"><sup>1</sup></a> 9 U.S.C. § 1-ff.
 
 ## Introduction to [Version 1.0](1.0/base.txt)
 
@@ -98,12 +100,12 @@ To all these and more, Ulex offers a fair and efficient legal system.
 And like any open source program, Ulex is not doled out by the dime but instead free for anyone to
 download, use, and modify. 
 They need only adopt and implement by mutual express consent the procedural, substantive, 
-and meta-rules that follow this brief introduction.<sup>[1](#fn1)</sup>
+and meta-rules that follow this brief introduction.<sup>[1](#fn1.0.1)</sup>
 
 Ulex does not so much create the law as curate it, combining specialized rule sets
 from trusted sources into a simple but comprehensive legal system. 
 It covers _civil law_ in the sense of _private law_ — not in the sense of _Roman_ law 
-and not in contrast to _common law_.<sup>[2](#fn2)</sup> 
+and not in contrast to _common law_.<sup>[2](#fn1.0.2)</sup> 
 As such, Ulex by default does not include criminal law, which concerns not purely private
 matters, but instead offenses against the public at large. Ulex 1.0 instead offers criminal law
 as an optional module.
@@ -112,7 +114,7 @@ With regard to all areas of law, Ulex offers both _procedural_ rules, which defi
 resolve their disputes, and _substantive_ rules, which describe their legal rights and remedies. 
 A few _meta-rules_ protect the system against the functional equivalent of what
 computer programmers rue as "run-time" errors. Ulex merely sets default rules in most
-cases, leaving users free to run other legal systems "on top of" it.<sup>[3](#fn3)</sup>
+cases, leaving users free to run other legal systems "on top of" it.<sup>[3](#fn1.0.3)</sup>
 
 The default rules of Ulex 1.0 come from the _Restatements of the Common Law_ , the
 _Uniform Commercial Code_, and other select sources. 
@@ -120,7 +122,7 @@ To specify the rules is not to replicate them, however.
 Some of the rule sets used in Ulex remain subject to copyright claims. 
 Most such copyright claimants nonetheless make their materials publicly available. 
 Uniquely, however, the American Law Institute (ALI) both claims copyrights in the black-letter rules of
-the _Restatements_ and declines to make them publicly available.<sup>[4](#fn4)</sup> 
+the _Restatements_ and declines to make them publicly available.<sup>[4](#fn1.0.4)</sup> 
 Given that the Restatements constitute binding public law in the United States, 
 and that copyright cannot restrict public access to public laws, the ALI's claim looks suspect. 
 But resolution of that question must wait. 
@@ -128,19 +130,17 @@ It would at all events prove taxing to duplicate every rule of Ulex 1.0 in this 
 which instead incorporates most of its constituent rules by reference, leaving users to access
 specific provisions as the occasion requires and as they see fit.
 
-## Footnotes
-
-<a name="fn1"><sup>1</sup></a> For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
+<a name="fn1.0.1"><sup>1</sup></a> For more about Ulex, see, Tom W. Bell, YOUR NEXT GOVERNMENT? FROM THE NATION STATE TO
 STATELESS NATIONS (Cambridge University Press, 2017).
 
-<a name="fn2"><sup>2</sup></a> In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
+<a name="fn1.0.2"><sup>2</sup></a> In fact, scholarly summations of common law rules — the various RESTATEMENTS — constitute the
 greatest part of Ulex's substantive rules.
 
-<a name="fn3"><sup>3</sup></a> See AMERICAN LAW INSTITUTE, RESTATEMENT (SECOND) OF CONFLICT OF LAWS § 187 (1971),
+<a name="fn1.0.3"><sup>3</sup></a> See AMERICAN LAW INSTITUTE, RESTATEMENT (SECOND) OF CONFLICT OF LAWS § 187 (1971),
 allowing parties to specify what law controls matters within the scope of their agreement, which Ulex
 incorporates by reference at rule 2.4.1.
 
-<a name="fn4"><sup>4</sup></a> Access to the _Restatements_ can be purchased in a variety of ways and formats: 
+<a name="fn1.0.44"><sup>4</sup></a> Access to the _Restatements_ can be purchased in a variety of ways and formats: 
 from [ALI](https://web.archive.org/web/20160430/https://www.ali.org/publications/#publication-type-restatements), 
 for bound versions of its publications; from Thompson Reuters, for purchase or lease of bound or e-books, at 
 [Restatements of the Law](https://web.archive.org/web/20160430/http://legalsolutions.thomsonreuters.com/law-products/Publication-Types/Restatements-of-the-Law/c/20194); 
@@ -149,4 +149,3 @@ or via online databases offered by
 [Lexis](https://web.archive.org/web/20160430/http://www.lexis.com/), or 
 [HeinOnline](https://web.archive.org/web/20160430/http://home.heinonline.org/). (All sites visited April 30, 2016).
 
-<a name="fn5"><sup>5</sup></a> 9 U.S.C. § 1-ff.
