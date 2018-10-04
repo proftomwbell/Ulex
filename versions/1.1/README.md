@@ -6,21 +6,21 @@
 
 ### 1.1. Procedural Principles
 
-ALI & International Institute for the Unification of Law, Principles of Transnational Civil Procedure (2004).<sup>[1](#fn1)</sup>
+ALI & International Institute for the Unification of Law, Principles of Transnational Civil Procedure (2004).
 
 ### 1.2. Default Procedural Rules
 
 #### 1.2.1. Judges
 
-Each party chooses a judge and those two judges choose a third.<sup>[2](#fn2)</sup>
+Each party chooses a judge and those two judges choose a third.<sup>[1](#fn1)</sup>
 
 #### 1.2.2. Remedies
 
-The judges choose one party's proposed remedy.<sup>[3](#fn3)</sup>
+The judges choose one party's proposed remedy.<sup>[2](#fn2)</sup>
 
 #### 1.2.3. Costs
 
-The losing party pays the winning party's legal costs.<sup>[4](#fn4)</sup>
+The losing party pays the winning party's legal costs.<sup>[3](#fn3)</sup>
 
 ## 2. Substantive Rules
 
@@ -46,7 +46,7 @@ ALI, [Restatement of Torts, Third, Liability for Physical and Emotional Harm (20
 
 #### 2.2.1. Generally
 
-ALI, Restatement of Property (1936-40).<sup>[5](#fn5)</sup>
+ALI, Restatement of Property (1936-40).<sup>[4](#fn4)</sup>
 
 #### 2.2.2. Leases
 
@@ -213,11 +213,11 @@ ULC, [Uniform Real Property Electronic Recording Act (2005)](https://web.archive
 #### 2.8.3. Priority of Title to Real Property
 
 Any conveyance of an interest in real property that has not been recorded in the relevant land records office, if any, shall be void as against any subsequent transfer of a
-conflicting interest for value paid in good faith, recorded earlier.<sup>[6](#fn6)</sup>
+conflicting interest for value paid in good faith, recorded earlier.<sup>[5](#fn5)</sup>
 
 #### 2.8.4. Adulthood
 
-Adulthood, age of consent, majority, and capacity to contract begin 18 years after a person's birth.<sup>[7](#fn7)</sup>
+Adulthood, age of consent, majority, and capacity to contract begin 18 years after a person's birth.<sup>[6](#fn6)</sup>
 
 #### 2.8.5. Time Limits
 
@@ -260,7 +260,7 @@ ALI, [Model Penal Code (2009) (substantive provisions)](https://web.archive.org/
 ### 5.1. Sole Grounds for Revoking Agreement to Resolve Dispute Under Ulex. 
 
 A written agreement to resolve a dispute under Ulex shall be valid, irrevocable,
-and enforceable except upon such grounds as exist at the time of its forming in law or equity for revocation of a contract.<sup>[8](#fn8)</sup>
+and enforceable except upon such grounds as exist at the time of its forming in law or equity for revocation of a contract.<sup>[7](#fn7)</sup>
 
 ### 5.2. Sole Grounds for Modifying or Correcting Judgment Rendered Under Ulex.
 
@@ -272,7 +272,7 @@ their authority in a manner that substantively altered their decision upon
 matters properly addressed; or 3) The judgment bears an imperfection in form
 not affecting its substance. The court may then only modify or correct the
 judgment, and then only so far as necessary to effectuate the evident intent of
-the judgment and promote justice between the parties.<sup>[9](#fn9)</sup>
+the judgment and promote justice between the parties.<sup>[8](#fn8)</sup>
 
 ### 5.3. Force and Effect of Court Confirmation. 
 
@@ -283,43 +283,41 @@ referenced rules, and that the judgement issued as described. Absent
 application of Rules 5.1 and 5.2, above, the court receiving the motion shall
 give it the same force and effect in all respects as any judgment issued by the
 court, and the judgment shall be so treated by all persons, institutions, officers,
-or agents presented with the same.<sup>[10](#fn10)</sup>
+or agents presented with the same.<sup>[9](#fn9)</sup>
 
 ## Footnotes
 
-<a name="fn1"><sup>1</sup></a> _Id._
-
-<a name="fn2"><sup>2</sup></a> _See,_ United Nations Commission on International Trade Law, 
+<a name="fn1"><sup>1</sup></a> _See,_ United Nations Commission on International Trade Law, 
 [_UNCITRAL Model Law on International Commercial Arbitration_ Art. 10(2) (2006)](https://web.archive.org/web/20160428/http://www.uncitral.org/pdf/english/texts/arbitration/ml-arb/07-86998_Ebook.pdf) 
 (setting default number of arbitrators at 3); _id._ Art. 11(3)(a) (describing method by which panel of three arbitrators chosen). 
 _See also_ , American Arbitration Association, _Commercial Arbitration Rules and Mediation Procedures_ R-12(b) & R-13 (2013) (setting forth similar procedure).
 
-<a name="fn3"><sup>3</sup></a> _See, e.g._ , Major League Baseball, [_2012 - 2016 Basic Agreement_ Art. VI, § E(13), p.22 (2016)](https://web.archive.org/web/20160428/http://mlb.mlb.com/pa/pdf/cba_english.pdf) (visited April 28, 2016) 
+<a name="fn2"><sup>2</sup></a> _See, e.g._ , Major League Baseball, [_2012 - 2016 Basic Agreement_ Art. VI, § E(13), p.22 (2016)](https://web.archive.org/web/20160428/http://mlb.mlb.com/pa/pdf/cba_english.pdf) (visited April 28, 2016) 
 ("The arbitration panel shall be limited to awarding only one or the other of the two [remedies] submitted.").
 
-<a name="fn4"><sup>4</sup></a> _See_ , American Law Institute & International Institute for the Unification of Law, 
+<a name="fn3"><sup>3</sup></a> _See_ , American Law Institute & International Institute for the Unification of Law, 
 [_Principles of Transnational Civil Procedure Principle_ 25 (2004)](https://web.archive.org/web/20160430/http://www.unidroit.org/english/principles/civilprocedure/ali-unidroitprinciples-e.pdf) (codifying the rule).
 
-<a name="fn5"><sup>5</sup></a> Though the ALI no longer offers bound versions of this _Restatement_ for sale, it remains available
+<a name="fn4"><sup>4</sup></a> Though the ALI no longer offers bound versions of this _Restatement_ for sale, it remains available
 via the online sources listed in footnote 3, above. It provides a few crucial rules, though much of its
 coverage has been superseded by later-published _Restatements_ covering specific areas of property
 law.
 
-<a name="fn6"><sup>6</sup></a> Here, Ulex adopts the race-notice form of recording statute most common in the United States.
+<a name="fn5"><sup>5</sup></a> Here, Ulex adopts the race-notice form of recording statute most common in the United States.
 _See_ , Ray E. Sweat, _Race, Race-Notice and Notice Statutes: The American Recording System,_ 3
 PROBATE & PROPERTY 27 (May/June 1989) (cataloging popularity of various recording statutes and
 providing model race-notice statute). This rule would apply only if the adopting jurisdiction had
 created a land records office as envisioned by the ULC, Uniform Real Property Electronic Recording
 Act (2005).
 
-<a name="fn7"><sup>7</sup></a> Many of the rule sets used in Ulex invoke age-related classifications, making a uniform definition
+<a name="fn6"><sup>6</sup></a> Many of the rule sets used in Ulex invoke age-related classifications, making a uniform definition
 of adulthood useful. Elsewhere, age-related classifications vary across and even within legal systems.
 Ulex sets the default at a relatively common age — 18 years old — leaving precocious children to bring
 suit for emancipation, as in ULC, _Uniform Guardianship and Protective Proceedings Act_ § 210
 (1997), or leaving adopting communities free to set a different default age for adulthood.
 
-<a name="fn8"><sup>8</sup></a> _Compare_ , Federal Arbitration Act (FAA), 9 U.S.C. § 2.
+<a name="fn7"><sup>7</sup></a> _Compare_ , Federal Arbitration Act (FAA), 9 U.S.C. § 2.
+
+<a name="fn8"><sup>8</sup></a> _Compare, id_. § 13.
 
 <a name="fn9"><sup>9</sup></a> _Compare, id_. § 13.
-
-<a name="fn10"><sup>10</sup></a> _Compare, id_. § 13.
