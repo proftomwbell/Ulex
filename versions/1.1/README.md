@@ -148,7 +148,7 @@ ULC, [Uniform Guardianship and Protective Proceedings Act (1997)](https://web.ar
 
 #### 2.6.3. Parentage
 
-ULC, [Uniform Parentage Act (2002)](http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
+ULC, [Uniform Parentage Act (2002)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
 
 #### 2.6.4. Marriage
 
