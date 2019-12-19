@@ -12,15 +12,24 @@ ALI & International Institute for the Unification of Law, Principles of Transnat
 
 #### 1.2.1. Judges
 
-Each party chooses a judge and those two judges choose a third.<sup>[1](#fn1)</sup>
+Each party shall choose a judge and those two judges shall choose a third, who shall chair the panel of three judges.<sup>[1](#fn1)</sup>
 
 #### 1.2.2. Remedies
 
-The judges choose one party's proposed remedy.<sup>[2](#fn2)</sup>
+Judges may choose one party's proposed remedy or dismiss the suit but shall not order any other remedy.<sup>[2](#fn2)</sup>
 
 #### 1.2.3. Costs
 
-The losing party pays the winning party's legal costs.<sup>[3](#fn3)</sup>
+A party whose proposed remedy was not chosen shall pay the reasonable legal costs of any counterparty whose remedy was chosen.<sup>[3](#fn3)</sup>
+
+#### 1.2.4 Appeals
+
+Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
+
+1. One chosen by the deciding chair and a deciding judge not chosen by a chair;
+2. One chosen by deciding chair and the other deciding judge not chosen by a chair;
+3. One chosen by each of the two deciding judges not chairs; and
+4. One chosen by the judges chosen under subsections 1 and 2, above, who shall chair the appellate panel.
 
 ## 2. Substantive Rules
 
