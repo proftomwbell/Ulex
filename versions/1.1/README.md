@@ -26,10 +26,11 @@ A party whose proposed remedy was not chosen shall pay the reasonable legal cost
 
 Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
 
-1. One chosen by the deciding chair and a deciding judge who was not chosen by a party or a chair;
-2. One chosen by the deciding chair and the other deciding judge not chosen by a party or a chair;
-3. One chosen by each of the two deciding judges not chairs; and
-4. One chosen by the judges chosen under subsections 1 and 2, above, who shall chair the appellate panel.
+1. An appellate judge chosen by the chair of the deciding panel and one judge most recently chosen;
+2. An appellate judge chosen by the chair of the deciding panel and the other judge most recently chosen;
+3. An appellate judge chosen by the two judges of the deciding panel not chairs; and
+4. An appellate judge, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
+
 
 ## 2. Substantive Rules
 
