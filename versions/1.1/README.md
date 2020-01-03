@@ -16,7 +16,7 @@ Each party chooses a judge and those two judges choose a third.<sup>[1](#fn1)</s
 
 #### 1.2.2. Remedies
 
-Judges may choose one party's proposed remedy by majority vote or dismiss the suit but shall not order any other remedy.<sup>[2](#fn2)</sup>
+Judges must choose one party's proposed remedy by majority vote or dismiss the suit but shall not order any other remedy.<sup>[2](#fn2)</sup>
 
 #### 1.2.3. Costs
 
