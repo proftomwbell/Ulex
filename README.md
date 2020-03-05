@@ -1,5 +1,5 @@
 # Ulex
-Here you can find [Ulex, the open source legal system](versions/1.1/), under git version control.
+Here you can find [Ulex, the open source legal system](versions/1.2/), under git version control.
 
 ## What is Ulex?
 An open-source legal system for special jurisdictions, online markets, ZEDEs, seasteads, and other startup communities.
