@@ -1,4 +1,4 @@
-# Ulex Open Source Legal Operating System Version 1.1 (2017)
+# Ulex Open Source Legal Operating System Version 1.2 (2020)
 
 ![ulex europaeus](ulex-europaeus.png)
 
@@ -12,15 +12,24 @@ ALI & International Institute for the Unification of Law, Principles of Transnat
 
 #### 1.2.1. Judges
 
-Each party chooses a judge and those two judges choose a third.<a name="ref1" href="#fn1"><sup>1</sup></a>
+Each party shall choose a judge and those two judges shall choose a third, who shall chair the panel of three judges.<a name="ref1" href="#fn1"><sup>1</sup></a>
 
 #### 1.2.2. Remedies
 
-Judges must choose one party's proposed remedy by majority vote or dismiss the suit but shall not order any other remedy.<sup>[2](#fn2)</sup></a>
+Judges must choose one party's proposed remedy by majority vote or dismiss the suit but shall not order any other remedy.<a name="ref2" href="#fn2"><sup>2</sup></a>
 
 #### 1.2.3. Costs
 
-The losing party pays the winning party's legal costs.<a name="ref3" href="#fn3"><sup>3</sup></a>
+A party whose proposed remedy was not chosen shall pay the reasonable legal costs of any counterparty whose remedy was chosen.<a name="ref3" href="#fn3"><sup>3</sup></a>
+
+#### 1.2.4 Appeals
+
+Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
+
+1. An appellate judge chosen by the chair of the deciding panel and one judge most recently chosen;
+2. An appellate judge chosen by the chair of the deciding panel and the other judge most recently chosen;
+3. An appellate judge chosen by the two judges of the deciding panel not chairs; and
+4. An appellate judge, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
 
 ## 2. Substantive Rules
 
@@ -148,7 +157,7 @@ ULC, [Uniform Guardianship and Protective Proceedings Act (1997)](https://web.ar
 
 #### 2.6.3. Parentage
 
-ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
+ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029034303/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
 
 #### 2.6.4. Marriage
 
@@ -166,7 +175,7 @@ ABA, [Model Nonprofit Corporation Act (2008)](https://web.archive.org/web/201605
 
 #### 2.7.2. Corporations
 
-ABA, [Model Business Corporation Act (2016)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
+ABA, [Model Business Corporation Act (2016)](http://web.archive.org/web/20181014044640/https://www.americanbar.org/content/dam/aba/administrative/business_law/corplaws/2016_mbca.pdf).
 
 #### 2.7.3. Business Organizations
 
