@@ -28,7 +28,7 @@ The losing party pays the winning party's legal costs.<a name="ref3" href="#fn3"
 
 #### 2.1.1. Generally
 
-ALI, [Restatement of Torts, Second (1965-79)](https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts/).
+ALI, [Restatement of Torts, Second (1965-79)](https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts/), excepting §§ 895 A-D (immunizing government agents from liability for their torts).
 
 #### 2.1.2. Defective Products
 
