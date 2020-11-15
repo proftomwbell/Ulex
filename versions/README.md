@@ -25,9 +25,8 @@ Those rules provide enough detail to get the dispute resolution process started,
 and often to finish it, leaving parties to choose other and more detailed rules if and when they see fit.
 
 Another change in the procedural section: the order of the rules. Whereas version
-1.0 put Ulex's basic triad of default rules before the _Principles of Transnational Civil_
-
-_Procedure_ , version 1.1 reverses that order. Why? Because Ulex users want to trust that
+1.0 put Ulex's basic triad of default rules before the _Principles of Transnational Civil Procedure_,
+version 1.1 reverses that order. Why? Because Ulex users want to trust that
 those defaults will apply unless and until they expressly change them, and because the meta-
 rule against conflicts (Rule 3.1 in version 1.0; Rule 3.3 in version 1.1) provides that later
 rules prevail over earlier ones. Reversing the order of the rules in the procedural section thus
