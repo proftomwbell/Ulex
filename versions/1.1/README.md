@@ -224,6 +224,18 @@ Adulthood, age of consent, majority, and capacity to contract begin 18 years aft
 A cause of action subject to the statute of limitations or a claim against adverse possession or prescription expires seven years
 after its accrual.
 
+#### 2.8.6.  Wrongful Death and Survival Act
+
+1.	Whenever the death of a natural person, including an unborn child, is caused by another party’s wrongful act or omission, that party shall be liable to the deceased person’s Estate and Survivors for any damage thereby caused to the deceased or to them, respectively.
+	
+2.	The deceased person’s Estate shall include economic and non-economic losses wrongfully caused by a party to the deceased while still living and to the Estate thereafter, which the Estate’s representative may bring suit to recover.
+
+3.	Survivors’ damages include economic and non-economic losses that the wrongful act caused to them and to the estimated net earnings the deceased would have earned during life but for the wrongful death.  Survivors under this section include spouses and heirs as defined in Rule 2.6.5, §§ 2-102 & 2-103.  Survivors shall take the same share of lost earnings as there provided for intestate successors unless the deceased has provided otherwise by will.
+
+4.	No action for damages resulting from the death of an unborn child may be brought under this section except for an illegal abortion.
+
+5.	Separate actions brought for the same wrongful death shall be consolidated on motion of any party.
+
 ### 2.9. Substantive Catchall Rule
 
 No controversy left unresolved by application of these rules may be decided contrary to common practice, the general tenor of these rules, or a decent respect for human dignity.
