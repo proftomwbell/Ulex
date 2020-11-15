@@ -1,4 +1,4 @@
-# Ulex Open Source Legal Operating System Version 1.1 (2017)
+# Ulex Open Source Legal Operating System Version 1.2 (2020)
 
 ![ulex europaeus](ulex-europaeus.png)
 
@@ -26,10 +26,10 @@ A party whose proposed remedy was not chosen shall pay the reasonable legal cost
 
 Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
 
-1. One chosen by the first judge chosen for the deciding panel and its chair;
-2. One chosen by the second judge chosen for the deciding panel and its chair;
-3. One chosen by the two judges of the deciding panel not chairs; and
-4. One, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
+1. An appellate judge chosen by the chair of the deciding panel and one judge most recently chosen;
+2. An appellate judge chosen by the chair of the deciding panel and the other judge most recently chosen;
+3. An appellate judge chosen by the two judges of the deciding panel not chairs; and
+4. An appellate judge, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
 
 ## 2. Substantive Rules
 
@@ -157,7 +157,7 @@ ULC, [Uniform Guardianship and Protective Proceedings Act (1997)](https://web.ar
 
 #### 2.6.3. Parentage
 
-ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
+ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029034303/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
 
 #### 2.6.4. Marriage
 
@@ -175,7 +175,7 @@ ABA, [Model Nonprofit Corporation Act (2008)](https://web.archive.org/web/201605
 
 #### 2.7.2. Corporations
 
-ABA, [Model Business Corporation Act (2016)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
+ABA, [Model Business Corporation Act (2016)](http://web.archive.org/web/20181014044640/https://www.americanbar.org/content/dam/aba/administrative/business_law/corplaws/2016_mbca.pdf).
 
 #### 2.7.3. Business Organizations
 

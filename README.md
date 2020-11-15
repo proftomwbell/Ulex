@@ -1,5 +1,5 @@
 # Ulex
-Here you can find [Ulex, the open source legal system](versions/1.1/), under git version control.
+Here you can find [Ulex, the open source legal system](versions/1.2/), under git version control.
 
 ## What is Ulex?
 An open-source legal system for special jurisdictions, online markets, ZEDEs, seasteads, and other startup communities.
@@ -21,8 +21,8 @@ Ulex is not imposed by any government but instead adopted by the mutual consent 
 ## How Does Ulex Resolve Disputes?
 The default procedure for resolving disputes in Ulex has three elements:
 1.  Judges:  Each of the opposing parties chooses a judge, and those two judges choose a third.
-2.  Remedies:  The judges choose a remedy offered by one of the parties.
-3.  Costs:  The losing party pays the winning party's legal costs.
+2.  Remedies:  The judges choose a remedy offered by one of the parties or dismiss the case.
+3.  Costs:  The losing party pays the winning party's reasonable legal costs.
  
 Ulex also includes more detailed procedural rules, authored by preeminent nongovernmental organizations.
 
@@ -51,24 +51,21 @@ In either case, users can download, use, and modify the rules free of charge.
 How can you run Ulex? Either move to a jurisdiction that has adopted the legal
 system or, in what amounts to much the same thing, mutually agree with others to have Ulex
 govern your legal relations. The first option remains for now only a theoretical possibility;
-the second calls for little more than a handshake. To make it formal, an agreement to run
-Ulex should have a choice of law and forum clause along these lines: "Ulex 1.1 governs any
-claim or question arising under or related to this agreement, including the proper forum for
-resolving disputes, all rules applied therein, and the form and effect of any judgment."
+the second calls for little more than a handshake.
 
-For greatest accuracy, citations to Ulex should note the version; e.g.: "Ulex 1.1" or
-"Ulex 1.1 (2017)." Particular rules can be cited using this format: "Ulex 1.1, Rule 3.
-(2017)." To cite this document, use the shortened URL: https://goo.gl/YByFti.
+To make it formal, an agreement to run Ulex should have a choice of law and forum clause along these lines:
+"Ulex 1.2 governs any claim or question arising under or related to this agreement, including the proper forum
+for resolving disputes, all rules applied therein, and the form and effect of any judgment."
 
-The .PDF version of this file has been certified in the Bitcoin blockchain via the Proof
-of Existence service. To determine the veracity of your copy, test it at
-https://proofofexistence.com/. A true copy will return a report along the lines of, "Registered
-in the bitcoin blockchain since: 2017- 06 - 09... ." followed by the exact time of registration
-(which of course cannot be simultaneously recorded in this, the selfsame document).
+For greatest accuracy, citations to Ulex should note the version; e.g.: "Ulex 1.2" or
+"Ulex 1.2 (2020)." Particular rules can be cited using this format: "Ulex 1.2, Rule 2.6.5
+(2020)" or, when greater exactitude is needed, "Ulex 1.2, Rule 2.6.5, §§ 2-102 & 2-103 (2020)."
+
 
 ## Where Can I Learn More About Ulex?
 * [Video from BIL, in Los Angeles](https://youtu.be/I83ywM-zd4k)
 * [Text of version 1.0](https://goo.gl/bChSpI)
-* [Text of version 1.1](https://goo.gl/YByFti)
-* Tom W. Bell, ["Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
+* [Text of version 1.1](https://github.com/ulex-opensource/Ulex/tree/master/versions/1.1)
+* [Text of version 1.2](https://github.com/ulex-opensource/Ulex/tree/master/versions/1.2)
+* Chapter 3.7 of Tom W. Bell, ["Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
 * A [brief look at Ulex](https://www.chartercitiesinstitute.org/post/ulex-a-legal-framework) on the Charter Cities Institute blog
