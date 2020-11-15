@@ -96,7 +96,7 @@ ALI, [Restatement of Restitution and Unjust Enrichment, Third (2011)](https://we
 
 #### 2.4.7. Employment
 
-ALI, [Restatement of Employment Law, Third (2014)](https://web.archive.org/web/20160501/https://www.ali.org/publications/show/employment-law/).
+ALI, [Restatement of Employment Law, Third (2015)](https://web.archive.org/web/20160501/https://www.ali.org/publications/show/employment-law/).
 
 ### 2.5. Uniform Commercial Codes
 
@@ -148,7 +148,7 @@ ULC, [Uniform Guardianship and Protective Proceedings Act (1997)](https://web.ar
 
 #### 2.6.3. Parentage
 
-ULC, [Uniform Parentage Act (2002)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
+ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
 
 #### 2.6.4. Marriage
 
@@ -166,7 +166,7 @@ ABA, [Model Nonprofit Corporation Act (2008)](https://web.archive.org/web/201605
 
 #### 2.7.2. Corporations
 
-ABA, [Model Business Corporation Act (2013)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
+ABA, [Model Business Corporation Act (2016)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
 
 #### 2.7.3. Business Organizations
 
